@@ -1,0 +1,13 @@
+*****JPT VEÍCULOS******
+
+Atualizações
+
+Classes de excessões
+Deletar Pedidos feitos pelo cliente
+Inserção da Logo em algumas telas
+Duas telas novas(Help>Como usar) e (Help > About)
+Melhoras no pdf
+******************************************************************
+***Obs***: Professor, antes de executar, pra não dar erro no pdf,
+o senhor muda o diretório. O código do pdf se encontra nas classes
+AlugarCarro e AlugarMoto.
